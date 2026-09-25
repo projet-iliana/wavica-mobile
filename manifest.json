@@ -1,0 +1,17 @@
+{
+  "short_name": "WAVICA",
+  "name": "WAVICA — Adaptive Acoustic Recovery",
+  "icons": [
+    {
+      "src": "/wavica-logo.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#060B18",
+  "theme_color": "#0c1a30",
+  "display": "standalone",
+  "orientation": "portrait"
+}
